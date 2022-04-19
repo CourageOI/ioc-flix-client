@@ -1,1 +1,1 @@
-This is note web app. Which can be used to upload all your notes
+This is the client part of my IOC Flix movie web app. It was built using the Reactjs
